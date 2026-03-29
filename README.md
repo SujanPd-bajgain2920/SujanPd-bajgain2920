@@ -116,7 +116,7 @@ mood     : Always caffeinated ☕
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=sujanprasadbajgain&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0891b2&ring=0891b2&fire=FF6C37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0891b2&sideLabels=0891b2&dates=888888)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SujanPd-bajgain2920&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0891b2&ring=0891b2&fire=FF6C37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0891b2&sideLabels=0891b2&dates=888888)](https://git.io/streak-stats)
 
 </div>
 
