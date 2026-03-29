@@ -112,11 +112,39 @@ mood     : Always caffeinated ☕
 
 ---
 
-## `> git streak --stats`
+## `> github --stats`
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SujanPd-bajgain2920&theme=dark&hide_border=true&border_radius=10&date_format=M%20j%5B%2C%20Y%5D&background=0D1117&stroke=0891b2&ring=0891b2&fire=FF6C37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0891b2&sideLabels=0891b2&dates=888888)](https://git.io/streak-stats)
+### 📊 GitHub Stats
+
+![Sujan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SujanPd-bajgain2920&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0891b2&icon_color=FF6C37&text_color=FFFFFF&border_radius=10)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SujanPd-bajgain2920&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=0891b2&text_color=FFFFFF&border_radius=10)
+
+---
+
+### 🔥 Streak Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=SujanPd-bajgain2920&theme=github-dark-blue&hide_border=true&border_radius=10&background=0D1117&stroke=0891b2&ring=0891b2&fire=FF6C37&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=0891b2&sideLabels=0891b2&dates=888888)](https://streak-stats.demolab.com?user=SujanPd-bajgain2920)
+
+---
+
+### 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=SujanPd-bajgain2920&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+### 🥇 GitHub Contribution Ranking
+
+[![committers.top badge](https://user-badge.committers.top/nepal/SujanPd-bajgain2920.svg)](https://user.committers.top/nepal/SujanPd-bajgain2920)
+
+---
+
+### 📈 Activity Graph
+
+[![Sujan's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SujanPd-bajgain2920&bg_color=0D1117&color=0891b2&line=0891b2&point=FF6C37&area=true&area_color=0891b2&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -153,6 +181,6 @@ while (alive) {
 }
 ```
 
-**— He/Him · Open to Collabs · Let's build something reliable together —**
+**— Open to Collabs · Let's build something reliable together —**
 
 </div>
